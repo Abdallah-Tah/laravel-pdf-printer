@@ -3,7 +3,8 @@
     "description": "A Laravel package to print PDF files directly to the default printer.",
     "require": {
         "php": ">=7.4",
-        "mike42/escpos-php": "^2.0"
+        "mike42/escpos-php": "^2.0",
+        "illuminate/support": "^8.0|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {

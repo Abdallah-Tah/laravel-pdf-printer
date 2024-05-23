@@ -2,7 +2,6 @@
 
 namespace Amohamed\PdfPrinter;
 
-use Amohamed\PdfPrinter\PdfPrinter;
 use Illuminate\Support\ServiceProvider;
 
 class PdfPrinterServiceProvider extends ServiceProvider
